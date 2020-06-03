@@ -1,5 +1,5 @@
 # Vim on iPadOS
 
-for Vim and iPadOS users
+在 iPadOS 上使用 Vim
 
 
